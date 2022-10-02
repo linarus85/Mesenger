@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<com.example.messenger.settings.ProfileStatusPreferens
+    android:key="profile_status"
+    android:singleLineTitle="true"
+    android:selectable="true"
+    android:title="status"
+    android:defaultValue="Available"
+    android:summary="@string/settings"/>
+
+</PreferenceScreen>

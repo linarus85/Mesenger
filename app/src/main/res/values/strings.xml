@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_up_solicitation">Don\\t\' have account? Sign up!</string>
+    <string name="phone_number">Phone number</string>
+    <string name="settings">settings</string>
+    <string name="hint_enter_message">Type a message...</string>
+    <string name="title_settings">Settings</string>
+    <string name="pref_account">Account</string>
+    <string name="logout">logout</string>
+    <string name="invalid_data_text">invalid data</string>
+    <string name="username_field">username field cannot be empty</string>
+    <string name="password_field">password field cannot be empty</string>
+    <string name="phone_field">phone field cannot be empty</string>
+    <string name="authorisation_error">An authorisation error. Please try again later</string>
+    <string name="unexpected_error">An unexpected  error. Please try again later</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Unable_load.">Unable to load. Try again later</string>
+    <string name="Contacts">contacts</string>
+    <string name="not_active_conversation">you have not active conversation</string>
+    <string name="hint_ener_message">Type a message</string>
+    <string name="message_sent">Message sent !</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <string name="description_social_recommendations">description social recommendations</string>
+    <string name="social_recommendations">social recommendations</string>
+    <string name="default_display_name">default display name</string>
+    <string name="example_list_titles">example list titles</string>
+    <string name="add_friends_message">add friends to message</string>
+    <string name="status_empty">status cannot be empty</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+</resources>

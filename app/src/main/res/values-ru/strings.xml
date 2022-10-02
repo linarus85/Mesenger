@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="username">Ник</string>
+    <string name="password">пароль</string>
+    <string name="login">логин</string>
+    <string name="sign_up">зарегистрироваться</string>
+    <string name="sign_up_solicitation">Нет аккаунта? Зарегистрироваться</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="settings">настройки</string>
+    <string name="hint_enter_message">Добавь сообщение</string>
+    <string name="title_settings">Настройки</string>
+    <string name="pref_account">Аккаунт</string>
+    <string name="logout">Выйти</string>
+    <string name="invalid_data_text">неверные данные</string>
+    <string name="username_field">поле имени пользователя не может быть пустым</string>
+    <string name="password_field">поле пароля не может быть пустым</string>
+    <string name="phone_field">поле номера не может быть пустым</string>
+    <string name="authorisation_error">Ошибка авторизации. Пожалуйста, попробуйте позже</string>
+    <string name="unexpected_error">Неожиданная ошибка. Пожалуйста, попробуйте позже</string>
+    <string name="Unable_load.">Не удалось загрузить. Попробуйте позже</string>
+    <string name="Contacts">Контакты</string>
+    <string name="not_active_conversation">у вас нет активного разговора</string>
+    <string name="hint_ener_message">Введите сообщение...</string>
+    <string name="message_sent">Сообщение отправлено !</string>
+    <string name="description_social_recommendations">подписаться на социальные рекомендации</string>
+    <string name="social_recommendations">социальные рекомендации</string>
+    <string name="default_display_name">отображаемое имя по умолчанию</string>
+    <string name="example_list_titles">примеры заголовков списка</string>
+    <string name="add_friends_message">добавить друзей в сообщение</string>
+    <string name="status_empty">статус не может быть пустым</string>
+</resources>
